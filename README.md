@@ -1,26 +1,21 @@
 <div align="center">
 
-# ∅ frame-studio
+<img src="https://raw.githubusercontent.com/NullframeAI/NullframeAI/main/assets/header.png" alt="Vesper AI Laboratory" width="960" />
+
+# frame-studio
 
 **The studio arm of the lab: generative brand systems, terminal aesthetics, and design tooling.**
 
-<img src="https://img.shields.io/badge/NULLFRAME-DIVISION_04_%2F%2F_STUDIO-00FF41?style=flat-square&labelColor=030604&color=0a2912"/>
-<img src="https://img.shields.io/badge/STATUS-RESEARCH_ACTIVE-00FF41?style=flat-square&labelColor=030604&color=0a2912"/>
-<img src="https://img.shields.io/badge/ACCESS-RESTRICTED-00FF41?style=flat-square&labelColor=030604&color=0a2912"/>
 
 </div>
 
 ---
 
-```console
-nullframe@deep:~/frame-studio$ cat mission.txt
-```
+## Research direction
 
 Research needs an aesthetic. frame-studio is where the lab's output gets its face: generative brand systems, the terminal-green identity you are looking at, and tooling that turns a prompt into a coherent visual world.
 
-```console
-nullframe@deep:~/frame-studio$ ls ./research-threads
-```
+## Research threads
 
 | THREAD | STATUS | SCOPE |
 |:-------|:------:|:------|
@@ -29,19 +24,16 @@ nullframe@deep:~/frame-studio$ ls ./research-threads
 | `motion-lab` | 🟢 ACTIVE | 3D and motion experiments for lab properties |
 | `nullframe-identity` | 🟢 ACTIVE | the living identity system of the lab itself |
 
-```console
-nullframe@deep:~/frame-studio$ cat status.txt
-```
+## Status
 
-> **RESEARCH IN PROGRESS.** Artifacts land in this repository as they are
-> declassified. Watch the repo to catch the first drop.
+> **RESEARCH IN PROGRESS.** Research artifacts will be documented in this repository as the work develops.
 
 ---
 
 <div align="center">
 
-**[NULLFRAME](https://github.com/rindy007)** · **[nullframe.higgsfield.app](https://nullframe.higgsfield.app)**
+**[Vesper AI Laboratory](https://github.com/NullframeAI)** · **[Explore the laboratory](https://vesper-world.vercel.app/)**
 
-<sub><code>NULLFRAME // nothing here is an accident</code></sub>
+<sub><code>Vesper AI Laboratory / Intelligence, built to endure.</code></sub>
 
 </div>
